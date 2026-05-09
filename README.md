@@ -15,7 +15,7 @@ yang mudah digunakan dan fitur lengkap.
 - SQLite
 
 ## 📸 Screenshots
-![Dashboard Kasir](dasbor%20Kasir.jpg)
+![Dashboard Kasir](dashboard%20Kasir.jpg)
 ![Tampilan Makanan](tampilan%20makanan.jpg)
 ![Tampilan Minuman](tampilan%20minuman.jpg)
 ![Tampilan Kebersihan](tampilan%20kebersihan.jpg)
